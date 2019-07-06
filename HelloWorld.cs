@@ -7,7 +7,7 @@ using System;
 
 namespace HelloWorld
 {
-    class Hello 
+    class HelloWorld 
     {
         static void Main() 
         {
