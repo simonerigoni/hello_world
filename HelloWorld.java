@@ -1,6 +1,5 @@
-/* Print 'Hello World!' on standard output
-   java HelloWorld.java
-*/
+// Print 'Hello World!' on standard output
+// java HelloWorld.java
 
 class HelloWorld 
 { 
