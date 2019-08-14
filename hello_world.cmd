@@ -1,4 +1,4 @@
-rem Print 'Hello World!' on standard output
+rem Print 'Hello World!'
 rem ./hello_world.cmd
 
 echo 'Hello World!'
