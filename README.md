@@ -6,7 +6,7 @@ In 2019 I graduated from the Udacity Data Scientist  Nanodegree Program , it aim
 
 You can find me on 
  - [Linkedin](www.linkedin.com/in/simone-rigoni-852b40101)
- - [Medium](medium.com/@simone.rigoni01)
+ - [Medium](www.medium.com/@simone.rigoni01)
  
 Cheers
 
