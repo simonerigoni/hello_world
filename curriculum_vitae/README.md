@@ -4,4 +4,4 @@ Tempalte download from [LaTeXTemplates](http://www.LaTeXTemplates.com) and adapt
 
 The MIT License see included LICENSE.md file
 
-[embed]https://github.com/simonerigoni/hello_world/blob/master/curriculum_vitae/main.pdf[/embed]
+![curriculum vitae](main.pdf)
