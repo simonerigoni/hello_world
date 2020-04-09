@@ -1,6 +1,6 @@
 # Hello World
 
-Hello my name is Simone Rigoni and graduated in Computer Engineering - Embedded and Control Systems at the University of Pavia in 2017. During my Erasmus Traineeship in Dublin I worked as intern at Firmwave, a young company specialized in the design of low-power hardware for IoT. I got passionate about Business Intelligence, Machine Learning and Data Science so I decided to completely change my working field
+Hello, my name is Simone Rigoni and graduated in Computer Engineering - Embedded and Control Systems at the University of Pavia in 2017. During my Erasmus Traineeship in Dublin I worked as intern at Firmwave, a young company specialized in the design of low-power hardware for IoT. I got passionate about Business Intelligence, Machine Learning and Data Science so I decided to completely change my working field
 
 I started working in 2017 as Technical Consultant at Aptos which operates a singular commerce platform that enables retail enterprises
 to deliver omni-channel shopping experiences to customers. One key aspect of my work are the performances of the code because of the high volume of data that are involved in the retail related business processes
