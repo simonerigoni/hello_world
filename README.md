@@ -5,11 +5,13 @@ Hello, I am Simone Rigoni and graduated in Computer Engineering - Embedded and C
 I started working in 2017 as Technical Consultant at [Aptos](https://www.aptos.com/) which operates a singular commerce platform that enables retail enterprises
 to deliver omni-channel shopping experiences to customers. One key aspect of my work are the performances of the code because of the high volume of data that are involved in the retail related business processes
 
-In 2019 I graduated from the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree Program. You can find all my projects here on GitHub and on Medium
+In 2019 I graduated from the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree Program. Very useful course that allowed me to deepen my theoretical and practical knowledge of Supervise, Unsupervised and Deep Learning
 
-You can find me on:
+You can find me and the projects I have developed on:
  - [Linkedin](www.linkedin.com/in/simone-rigoni-852b40101)
  - [Medium](www.medium.com/@simone.rigoni01)
+ - [GitHub](https://github.com/simonerigoni)
+ - [simonerigoni.net](www.simonerigoni.net)
  
 Cheers
 
