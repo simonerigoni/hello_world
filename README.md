@@ -1,6 +1,6 @@
 # Hello World
 
-I graduated in Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in 2017. During my Erasmus Traineeship in Dublin I worked as Software Developer at [Firmwave](https://iot.taoglas.com/), a young company specialized in the design of low-power hardware for IoT. I took part in the design and implementation Over the Air In Application Programming on a device based on MCU STM32F4 (equipped with ARM Cortex M4), implementing new features in both the bootloader in the application using C
+I graduated in Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in 2017. During my Erasmus Traineeship in Dublin I worked as Software Developer at [Firmwave](https://iot.taoglas.com/), a young company specialized in the design of low-power hardware for IoT. I took part in the design and implementation of Over-the-Air programming (OTA) on a device based on MCU STM32F4 (equipped with ARM Cortex M4), implementing new features in both the bootloader in the application using C
 
 I got passionate about Python and how to use data to solve problems so I decided to completely change my working field approaching Data Science
 
