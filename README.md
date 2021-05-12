@@ -2,7 +2,7 @@
 
 Hi, I am Simone Rigoni and I am very passionate about Software Engineering and building stuff.
 
-I graduated in Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in 2017.
+I graduated in Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in October 2017.
 
 During my Erasmus Traineeship in Dublin I worked as Embedded Software Developer at [Firmwave](https://iot.taoglas.com/), a young company specialized in the design of low-power hardware for IoT. I developed in C with an open source toolchain based on GCC ARM + Eclipse + OpenOCD new features in both the bootloader and the application of OTA programming on a device based on MCU STM32F4 (equipped with ARM Cortex M4).
 
