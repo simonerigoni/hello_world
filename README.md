@@ -16,7 +16,7 @@ From September 2020 I work as Data Engineer in the Data Platforms division of [F
 
 You can find me on:
  - [Linkedin](www.linkedin.com/in/simone-rigoni-852b40101)
- - [Medium](www.medium.com/@simone.rigoni01)
+ - [Medium](https://simone-rigoni01.medium.com/)
  - [simonerigoni.net](www.simonerigoni.net)
  
 Cheers
