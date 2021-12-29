@@ -12,7 +12,7 @@ From October 2017 to August 2020 I worked as Technical Consultant at [Aptos](htt
 
 In 2019 I graduated from the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree Program. It allowed me to deepen my theoretical and practical knowledge of Supervise, Unsupervised and Deep Learning.
 
-From September 2020 I work as Data Engineer in the Data Platforms division of [Fastweb](https://www.fastweb.it/) which is a telecommunications company that provides landline, broadband Internet, IPTV and mobile services.
+From September 2020 I work as Data Engineer in the Data Platforms team of [Fastweb](https://www.fastweb.it/) which is a telecommunications company that provides landline, broadband Internet, IPTV and mobile services.
 
 You can find me on:
  - [Linkedin](https://www.linkedin.com/in/simone-rigoni-852b40101)
