@@ -1,10 +1,7 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Ignore exe files
 
-/.vs/slnx.sqlite
-/.vs
-*.gz
-*.aux
-*.log
+*.exe
+
+# Ignore java class files
+
 *.class
