@@ -16,7 +16,7 @@ From September 2020 I work as Data Engineer in the Data Platforms team of [Fastw
 
 You can find me on:
  - [Linkedin](https://www.linkedin.com/in/simone-rigoni-852b40101)
- - [Medium](https://simone-rigoni01.medium.com/)
+ - [Medium](https://medium.com/@simone-rigoni01)
  - [simonerigoni.net](http://www.simonerigoni.net)
  
 Cheers

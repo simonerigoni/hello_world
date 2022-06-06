@@ -5,3 +5,7 @@
 # Ignore java class files
 
 *.class
+
+# Ignore scala TASTy (Typed Abstract Syntax Trees) files
+
+*.tasty
