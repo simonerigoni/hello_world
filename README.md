@@ -1,26 +1,20 @@
 # Hello World
 
-Hi, I am Simone Rigoni and I am very passionate about Software Engineering and building stuff.
+Hi, I am Simone Rigoni and I write about Software Development, Data Engineering, building stuff, travel, strength training and running. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
-I graduated in Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in October 2017.
+I graduated in Master’s Degree Computer Engineering - Embedded and Control Systems at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html) in 2017.
 
-During my Erasmus Traineeship in Dublin I worked as Embedded Software Developer at [Firmwave](https://iot.taoglas.com/), a young company specialized in the design of low-power hardware for IoT. I developed in C with an open source toolchain based on GCC ARM + Eclipse + OpenOCD new features in both the bootloader and the application of OTA programming on a device based on MCU STM32F4 (equipped with ARM Cortex M4).
+Even if my university career was mainly focused on Embedded Systems I got passionate about Python, SQL and how to use data to solve problems so I decided to completely change my working field approaching Data Engineering and Data Science.
 
-I got passionate about Python and how to use data to solve problems so I decided to completely change my working field approaching Data Engineering and Data Science.
+After several years in the industry as Data Engineer, I now work exclusively as a 100% remote independent contractor. I build and maintain systems that collect, manage, and transform raw data into business usable information using Python, SQL and Azure or AWS tools depending on the client needs. With my knowledge of Qlikview, SSRS and PowerBI I can also contribute to visualize data and build reports. 
 
-From October 2017 to August 2020 I worked as Technical Consultant at [Aptos](https://www.aptos.com/) which operates a singular commerce platform that enables retail enterprises to deliver omni-channel shopping experiences to customers. One key aspect of my work are the performances of the code because of the high volume of data that are involved in the retail related business processes.
-
-In 2019 I graduated from the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree Program. It allowed me to deepen my theoretical and practical knowledge of Supervise, Unsupervised and Deep Learning.
-
-From September 2020 to August 2022 I worked as Data Engineer in the Data Platforms team of [Fastweb](https://www.fastweb.it/) which is a telecommunications company that provides landline, broadband Internet, IPTV and mobile services. I supported the business teams by designing, implementing and maintaining scalable processes to ETL data to and from Data Warehouse, Enterprise Data Hub and Big Data Lake using PL/SQL, Python and Hadoop ecosystem tools. 
-
-From September 2022 I work as Data Engineer for [340Basics](https://340basics.com/) as independent contractor.
+On my website [simonerigoni.net](http://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about Software Development, Data Engineering and Machine Learning.
 
 You can find me on:
  - [Linkedin](https://www.linkedin.com/in/simone-rigoni-852b40101)
  - [Medium](https://medium.com/@simone-rigoni01)
+ - [Blogspot](https://simonerigoni01.blogspot.com/)
  - [simonerigoni.net](http://www.simonerigoni.net)
  
 Cheers
-
 Simone
