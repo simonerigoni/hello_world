@@ -11,10 +11,10 @@ After several years in the industry as Data Engineer, I now work exclusively as 
 On my website [simonerigoni.net](http://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about Software Development, Data Engineering and Machine Learning.
 
 You can find me on:
- - [Linkedin](https://www.linkedin.com/in/simone-rigoni-852b40101)
+
+ - [simonerigoni.net](http://www.simonerigoni.net)
  - [Medium](https://medium.com/@simone-rigoni01)
  - [Blogspot](https://simonerigoni01.blogspot.com/)
- - [simonerigoni.net](http://www.simonerigoni.net)
  
 Cheers
 
