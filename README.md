@@ -10,7 +10,7 @@ Nowadays I work exclusively as a remote independent contractor/freelance. I buil
 
 On my website [simonerigoni.net](http://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about Software Development, Data Engineering and Machine Learning.
 
-Some of my certifications:
+Learning is a life long journey. Here some of my certifications:
 - [Data Scientist Nanodegree](https://www.udacity.com/certificate/e/c57a3650-1917-11e9-9717-2b962bc64e44)
 - [Data Architect Nanodegree](https://www.udacity.com/certificate/WGUCWDDL)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7a23b2b0-8930-4409-b63a-3460ea040311)
