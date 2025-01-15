@@ -14,10 +14,9 @@ Some of my certifications:
 - [Data Scientist Nanodegree](https://www.udacity.com/certificate/e/c57a3650-1917-11e9-9717-2b962bc64e44)
 - [Data Architect Nanodegree](https://www.udacity.com/certificate/WGUCWDDL)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7a23b2b0-8930-4409-b63a-3460ea040311)
-- [AWS Certified Solutions Architect - Associate]()
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/895f124c-d78f-4bc0-8960-e9a9c390602f)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/63ECBD76F6BAE9D8)
 - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/66B926D183CDF3CA)
-- [Microsoft Certified: Azure Cosmos DB Developer Specialty]()
  
 Cheers
 
