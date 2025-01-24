@@ -17,7 +17,8 @@ Learning is a life long journey. Here some of my certifications:
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/895f124c-d78f-4bc0-8960-e9a9c390602f)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/63ECBD76F6BAE9D8)
 - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/66B926D183CDF3CA)
- 
+- [Databricks Fundamentals](https://credentials.databricks.com/9db42d55-132f-47e5-aabb-cb97efbece37)
+
 Cheers
 
 Simone
