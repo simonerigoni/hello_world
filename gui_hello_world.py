@@ -24,3 +24,5 @@ if __name__ == '__main__':
     button_widget = tkinter.Button(window, text = 'Say Hello', command = hello_world)
     button_widget.pack()
     tkinter.mainloop()
+else:
+    pass

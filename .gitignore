@@ -1,11 +1,18 @@
-﻿# Ignore exe files
+﻿# General stuff to ignore
 
+# Ignore exe files
 *.exe
 
 # Ignore java class files
-
 *.class
 
 # Ignore scala TASTy (Typed Abstract Syntax Trees) files
-
 *.tasty
+
+## Python compiled files
+*.pyc
+
+# Actual project folders and files to ignore
+
+## Virtual enviroment folder
+.venv/
