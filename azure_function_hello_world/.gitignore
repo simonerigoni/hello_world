@@ -1,0 +1,15 @@
+# General stuff to ignore
+
+## Python compiled files
+*.pyc
+
+# Actual project folders and files to ignore
+
+## Virtual enviroment folder
+.venv/
+
+## VS code configuration files
+.vscode/
+
+# Azure Functions artifacts
+local.settings.json
