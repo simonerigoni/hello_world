@@ -19,6 +19,7 @@ To install django you can run `pip install django`.
 First apply migrations:
 
 `python manage.py makemigrations`
+
 `python manage.py migrate`
 
 Then you can run the server with `python manage.py runserver`. Now you can open your web browser and visit http://127.0.0.1:8000/.
