@@ -15,6 +15,9 @@
 ## Program Database files
 *.pdb
 
+## sqlite3 databases
+*.sqlite3
+
 # Actual project folders and files to ignore
 
 ## Virtual enviroment folder
