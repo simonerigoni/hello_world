@@ -12,4 +12,4 @@ This project uses Python 3.11.9
 
 First let's build the docker image by runing `docker build -t my-python-image .`
 
-If you run `python docker_hello_world.py` you will see the message and your current OS and architecture while if you run `docker run -v .:/app my-python-image` you will see the message and image's OS and architecture.
+If you run `python docker_hello_world.py` you will see the message and your current OS and architecture while if you run `docker run -v .:/app my-python-image` you will see the message and the image's OS and architecture.
