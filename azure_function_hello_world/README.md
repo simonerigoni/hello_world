@@ -12,7 +12,7 @@ This project uses Python 3.11.9 and the most important packages are:
 
 To create the virtual enviroment you can run `python -m venv .venv`.
 
-To install django you can run `pip install azure-functions`.
+To install the needed python packages you can run `pip install -r requirements.txt`.
 
 ## Local configuration
 
