@@ -7,7 +7,7 @@ A simple Azure Durable Function that says "Hello World!". Durable Functions is a
 Durable Functions requires an Azure storage account to run because it uses the storage account to manage state, queues, and other runtime data necessary for orchestrating and executing long-running workflows. You can choose to:
 
 1. Create a storage account on Azure
-2. Use the [Azurite](https://github.com/Azure/Azurite)
+2. Use [Azurite](https://github.com/Azure/Azurite)
 
 In this example I will use Azurite which is an open-source emulator provides a free local environment for testing your Azure Blob, Queue Storage, and Table Storage applications. 
 
@@ -110,7 +110,7 @@ You need also to setup properly `.vscode\tasks.json` to run Azurite.
 
 ## Running the code 
 
-In VS Code if you have installed the Azure Functions Extension you can press F5. Now you can open your web browser and visit http://localhost:7071/api/orchestrators/hello_orchestrator. This will start executing a new instance of the specified orchestrator function. The response payload is a JSON object with some fields: one of which is `statusQueryGetUri. This field is the status URL of the orchestration instance and if you visit it you will see something like this:
+In VS Code if you have installed the Azure Functions Extension you can press F5. Now you can open your web browser and visit http://localhost:7071/api/orchestrators/hello_orchestrator. This will start the execution of a new instance of the specified orchestrator function. The response payload is a JSON object with some fields: one of which is `statusQueryGetUri. This field is the status URL of the orchestration instance and if you visit it you will see something like this:
 
 ```json
 {"name":"hello_orchestrator","instanceId":"...","runtimeStatus":"Completed","input":null,"customStatus":null,"output":["Hello World!","Hello World!"],"createdTime":"...","lastUpdatedTime":"..."}
