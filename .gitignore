@@ -23,5 +23,5 @@
 ## Virtual enviroment folder
 .venv/
 
-## VS code configuration files
-.vscode/
+## Temp stuff
+temp/
