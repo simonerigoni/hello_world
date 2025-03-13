@@ -26,6 +26,7 @@ The `local.settings.json` file is a configuration file used in Azure Functions p
     "FUNCTIONS_WORKER_RUNTIME": "python"
   }
 }
+```
 
 ## Running the code
 
