@@ -1,7 +1,7 @@
 import azure.functions as func
-import azure.durable_functions as df
+import azure.durable_functions as dfunc
 
-app = df.DFApp(http_auth_level=func.AuthLevel.ANONYMOUS)
+app = dfunc.DFApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
 # http://localhost:7071/api/orchestrators/hello_orchestrator
 
