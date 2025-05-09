@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It is nice to start a project with an Hello World to make sure that everything is workimng as expected.
+It is nice to start a project with an Hello World to make sure that everything is working as expected.
 
 ## List of activities
 
