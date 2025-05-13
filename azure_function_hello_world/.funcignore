@@ -1,8 +1,20 @@
-.git*
-.vscode
-__azurite_db*__.json
-__blobstorage__
-__queuestorage__
+# Files, directories or patterns that should be excluded from Azure Function deployment
+
+# General stuff
+
+# Python compiled files
+*.pyc
+
+# Actual project folders and files
+
+# Temp stuff
+temp/
+
+# Local settings
 local.settings.json
-tests
-.venv
+
+# Virtual enviroment
+.venv/
+
+# vscode
+.vscode/

@@ -1,15 +1,17 @@
-# General stuff to ignore
+# Files, directories or patterns that should be excluded from Git tracking
 
-## Python compiled files
+# General stuff
+
+# Python compiled files
 *.pyc
 
-# Actual project folders and files to ignore
+# Actual project folders and files
 
-## Virtual enviroment folder
-.venv/
+# Temp stuff
+temp/
 
-## VS code configuration files
-.vscode/
-
-# Azure Functions artifacts
+# Local settings
 local.settings.json
+
+# Virtual enviroment
+.venv/

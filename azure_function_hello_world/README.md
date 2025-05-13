@@ -33,3 +33,5 @@ The `local.settings.json` file is a configuration file used in Azure Functions p
 ## Running the code
 
 In VS Code if you have installed the Azure Functions Extension you can press F5 or alternatively you can run `.\.venv\Scripts\Activate.ps1; func start`. Now you can open your web browser and visit http://localhost:7071/api/http_trigger.
+
+Note that the configuration of `.vscode/tasks.json` handles pip upgrade, pip install and func start.
