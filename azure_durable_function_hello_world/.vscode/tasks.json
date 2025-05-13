@@ -1,0 +1,62 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "func",
+			"label": "func: host start",
+			"command": "host start",
+			"problemMatcher": "$func-python-watch",
+            "isBackground": true,
+            "dependsOn": "start azurite"
+        },
+        {
+            "label": "start azurite",
+            "type": "shell",
+            "command": "azurite --silent",
+            "problemMatcher": {
+                "pattern": {
+                    "regexp": "Azurite .* service is successfully listening at",
+                    "file": 1,
+                    "location": 2,
+                    "message": 3
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Azurite .* service is starting at",
+                    "endsPattern": "Azurite .* service is successfully listening at"
+                }
+            },
+            "isBackground": true,
+            "dependsOn": "pip install (functions)",
+        },
+        {
+            "label": "pip install (functions)",
+			"type": "shell",
+			"osx": {
+				"command": "${config:azureFunctions.pythonVenv}/bin/python -m pip install -r requirements.txt"
+			},
+			"windows": {
+				"command": "${config:azureFunctions.pythonVenv}\\Scripts\\python -m pip install -r requirements.txt"
+			},
+			"linux": {
+				"command": "${config:azureFunctions.pythonVenv}/bin/python -m pip install -r requirements.txt"
+			},
+            "problemMatcher": [],
+            "dependsOn": "pip upgrade"
+        },
+        {
+            "label": "pip upgrade",
+            "type": "shell",
+            "osx": {
+                "command": "${config:azureFunctions.pythonVenv}/bin/python -m pip install --upgrade pip"
+            },
+            "windows": {
+                "command": "${config:azureFunctions.pythonVenv}\\Scripts\\python -m pip install --upgrade pip"
+            },
+            "linux": {
+                "command": "${config:azureFunctions.pythonVenv}/bin/python -m pip install --upgrade pip"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
