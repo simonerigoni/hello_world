@@ -5,28 +5,16 @@
 # Python compiled files
 *.pyc
 
-# Ignore exe files
-*.exe
-
-# Ignore java class files
-*.class
-
-# Program Database files
-*.pdb
-
 # Actual project folders and files
 
 # Temp stuff
 temp/
 
-# Logs
-logs/
+# Local settings
+local.settings.json
 
 # Virtual enviroment
 .venv/
 
-# pytest cache files 
-.pytest_cache/
-
-# Code style reports
-code_style/
+# Big files
+db.sqlite3
