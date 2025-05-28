@@ -1,0 +1,17 @@
+# Files, directories or patterns that should be excluded from the Docker build
+
+# General stuff
+
+# Python compiled files
+*.pyc
+
+# Actual project folders and files
+
+# Temp stuff
+temp/
+
+# Local settings
+.env
+
+# Virtual enviroment
+.venv/

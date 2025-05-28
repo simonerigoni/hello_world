@@ -19,6 +19,9 @@
 # Temp stuff
 temp/
 
+# Local settings
+.env
+
 # Logs
 logs/
 
