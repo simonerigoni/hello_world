@@ -21,7 +21,7 @@ if __name__ == '__main__':
             response = requests.get(SERVER_URL)
             print(f"Response from server: {response.json()['message']}", flush=True)
         except requests.exceptions.RequestException as e:
-            print(f"Error connecting to server: {e}", flush=True)
+            print(f"Error connecting to server: {e}")
         time.sleep(5)
 else:
     pass
