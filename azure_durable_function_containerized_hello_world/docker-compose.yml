@@ -1,0 +1,28 @@
+services:
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite
+    container_name: azurite
+    ports:
+      - "10000:10000" # Blob service
+      - "10001:10001" # Queue service
+      - "10002:10002" # Table service
+    networks:
+      - azurite-network
+
+  function_app:
+    build: .
+    container_name: function_app
+    depends_on:
+      - azurite
+    environment:
+      - AzureWebJobsStorage=DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://azurite:10000/devstoreaccount1;QueueEndpoint=http://azurite:10001/devstoreaccount1;TableEndpoint=http://azurite:10002/devstoreaccount1;
+      - WEBSITE_HOSTNAME=host.docker.internal:8080
+      - ENV=local-docker
+    ports:
+      - "8080:80"
+    networks:
+      - azurite-network
+
+networks:
+  azurite-network:
+    driver: bridge

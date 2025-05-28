@@ -1,0 +1,24 @@
+# Files, directories or patterns that should be excluded from Git tracking
+
+# General stuff
+
+# Python compiled files
+*.pyc
+
+# Actual project folders and files
+
+# Temp stuff
+temp/
+
+# Local settings
+local.settings.json
+
+# Virtual enviroment
+.venv/
+
+# Azurite artifacts
+__blobstorage__/
+__queuestorage__/
+__azurite_db*__.json
+.python_packages
+AzuriteConfig
