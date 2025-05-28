@@ -4,7 +4,7 @@
 
 A simple example of two Docker containers communicating. One container runs a Flask server and the other runs a client that sends requests to the server. We will use Docker compose to configure services, networks, and volumes and finally spin up yhe entire application stack.
 
-![Docker compose](images/docker_compose.JPG)
+![Docker compose](images/docker_compose.png)
 
 ## Software and libraries
 
