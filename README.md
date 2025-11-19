@@ -6,11 +6,11 @@ It is nice to start a project with an Hello World to make sure that everything i
 
 ## List of activities
 
-In the [TODO](TODO.md) file you can find the list of tasks and on going activities.
+In the [TODO.md](TODO.md) file you can find the list of tasks and on going activities.
 
 ## Licensing and acknowledgements
 
-Have a look at [LICENSE](LICENSE.md).
+Have a look at [LICENSE.md](LICENSE.md).
 
 ## Outro
 
