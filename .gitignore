@@ -1,7 +1,5 @@
 ﻿# Files, directories or patterns that should be excluded from Git tracking
 
-# General stuff
-
 # Python compiled files
 *.pyc
 
