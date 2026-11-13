@@ -1,5 +1,7 @@
 # Hello World
 
+[![License](https://img.shields.io/github/license/simonerigoni/hello_world)](LICENSE.md) [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen?logo=renovatebot)](https://renovatebot.com)
+
 ## Introduction
 
 It is nice to start a project with an Hello World to make sure that everything is working as expected.
