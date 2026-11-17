@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - name: Announce trigger
         env:
@@ -30,7 +30,7 @@ jobs:
           REPOSITORY: ${{ github.repository }}
         run: echo "🔎 The name of your branch is $BRANCH_REF and your repository is $REPOSITORY."
       - name: Check out repository code
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Say hello after checkout
         env:
           HELLO_NAME: ${{ inputs.name }}
